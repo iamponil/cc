@@ -1,0 +1,20 @@
+{
+  "name": "nodee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongoose": "^7.2.0",
+    "nodemon": "^2.0.22",
+    "socket.io": "^4.6.1",
+    "multer": "^1.4.5-lts.1",
+    "yup": "^1.1.1"
+  }
+}
